@@ -1,5 +1,6 @@
-# node-express-template
-Personal Node express template for new API projects.
+# Deployment Test Repository
+
+Test repo used for docker deployments
 
 ## How to get started
 
